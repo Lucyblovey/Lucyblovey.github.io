@@ -16,7 +16,7 @@ export default hopeTheme({
 
   repo: "Lucyblovey/Lucyblovey.github.io",
 
-  docsDir: "Lucyblovey",
+  docsDir: "lucyblovey",
 
   // navbar
   navbar: navbar,
