@@ -1,0 +1,5 @@
+
+node_modules/
+lucyblovey/.vuepress/.cache/
+lucyblovey/.vuepress/.temp/
+lucyblovey/.vuepress/dist/
