@@ -3,10 +3,11 @@ home: true
 layout: Blog
 icon: home
 title: 博客主页
-heroImage: /logo.svg
+heroImage: false
+bgImage: /bg/bg.jpg
 heroText: 悦兮小栈
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: “I love the people I photograph”——Bruce Gilden
 projects:
   - icon: project
     name: 项目名称

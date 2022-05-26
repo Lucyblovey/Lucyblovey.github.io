@@ -84,11 +84,11 @@ export default hopeTheme({
       /**
        * Using giscus
        */
-      type: "giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
-      category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
+      // type: "giscus",
+      // repo: "vuepress-theme-hope/giscus-discussions",
+      // repoId: "R_kgDOG_Pt2A",
+      // category: "Announcements",
+      // categoryId: "DIC_kwDOG_Pt2M4COD69",
 
       /**
        * Using twikoo
@@ -99,8 +99,8 @@ export default hopeTheme({
       /**
        * Using Waline
        */
-      // type: "waline",
-      // serverURL: "https://vuepress-theme-hope-comment.vercel.app",
+      type: "waline",
+      serverURL: "https://comment.blovey.art/",
     },
 
     mdEnhance: {
