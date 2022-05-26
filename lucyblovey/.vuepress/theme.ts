@@ -31,6 +31,8 @@ export default hopeTheme({
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
   blog: {
+    name: "悦兮小栈",
+    avatar: "/my/me.jpg",
     description: "文字是有灵魂的",
     intro: "/intro.html",
     medias: {
