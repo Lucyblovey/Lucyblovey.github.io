@@ -3,18 +3,18 @@ import navbar from "./navbar";
 import sidebar from "./sidebar";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-v2-demo.mrhope.site",
+  hostname: "https://lucy.blovey.art/",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mrhope.site",
+    name: "悦兮小栈",
+    url: "https://blovey.art/",
   },
 
   iconAssets: "//at.alicdn.com/t/font_2410206_a0xb9hku9iu.css",
 
   logo: "/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "Lucyblovey/Lucyblovey.github.io",
 
   docsDir: "demo/src",
 
